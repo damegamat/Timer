@@ -1,4 +1,4 @@
-#Timer app
+# Timer app
 
 ## Table of contents
 
